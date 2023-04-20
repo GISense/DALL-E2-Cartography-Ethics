@@ -1,6 +1,3 @@
-# DALL-E2-Cartography-Ethics
-An ethical examination system to distinguish AI-generated maps and human-designed maps.
-
 [![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
@@ -12,10 +9,10 @@ An ethical examination system to distinguish AI-generated maps and human-designe
   <h2 align="center">The Ethics of AI-generated Maps: A Study of DALL·E 2 and Implications for Cartography</h2>
 
   <p align="center">
-      GISense Lab, Department of Geography, University of South Carolina.
-      GeoDS Lab, Department of Geography, University of Wisconsin-Madison.
-      HGIS Lab, Department of Geography, University of Washington.
-      Cartography Lab, Department of Geography, University of Wisconsin-Madison.
+      GISense Lab, Department of Geography, University of South Carolina.  
+      GeoDS Lab, Department of Geography, University of Wisconsin-Madison.  
+      HGIS Lab, Department of Geography, University of Washington.  
+      Cartography Lab, Department of Geography, University of Wisconsin-Madison.  
     <br />
     <!--<a href="https://geods.geography.wisc.edu/covid-19-physical-distancing">Website</a>
     ·
@@ -28,10 +25,7 @@ An ethical examination system to distinguish AI-generated maps and human-designe
 
 * [Citation](#citation)
 * [About the Project](#about-the-project)
-<!-- * [Data Processing and Data Descriptor](#data-processing-and-data-descriptor) -->
 * [Dataset Structure](#dataset-structure)
-<!-- * [How to Download Data?](#code-usage)
-* [Field Descriptions](#field-descriptions) -->
 * [License](#license)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
@@ -49,10 +43,6 @@ Kang, Y., Zhang, Q., Roth, R. The Ethics of AI-generated Maps: A Study of DALL·
 @article{kang2023ethics,
   title     = {The Ethics of AI-generated Maps: A Study of DALL·E 2 and Implications for Cartography},
   author    = {Kang, Yuhao and Zhang, Qianheng and Roth, Robert},
-<!--   journal   = {Scientific Data},
-  volumn    = {7},
-  issue     = {390},
-  pages     = {1--13}, -->
   year = {2023}
 }
 ```
@@ -71,7 +61,6 @@ Project Link: [https://github.com/GISense/DALL-E2-Cartography-Ethics](https://gi
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [SafeGraph](https://www.safegraph.com/)
 * [GeoDS Lab](https://geods.geography.wisc.edu/)
 
 
