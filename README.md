@@ -1,2 +1,6 @@
 # DALL-E2-Cartography-Ethics
 An ethical examination system to distinguish AI-generated maps and human-designed maps.
+
+
+# About The Project
+The rapid advancement of artificial intelligence (AI) such as the emergence of large language models including ChatGPT and DALL·E 2 has brought both opportunities for improving productivity and raised ethical concerns. This paper investigates the ethics of using artificial intelligence (AI) in cartography, with a particular focus on the generation of maps using DALL·E 2. To accomplish this, we first create an open-sourced dataset that includes synthetic (AI-generated) and real-world (human-designed) maps at multiple scales with a variety settings. We subsequently examine four potential ethical concerns that may arise from the characteristics of DALL·E 2 generated maps, namely inaccuracies, misleading information, unanticipated features, and irreproducibility. We then develop a deep learning-based ethical examination system that identifies those AI-generated maps. Our research emphasizes the importance of ethical considerations in the development and use of AI techniques in cartography, contributing to the growing body of work on trustworthy maps. We aim to raise public awareness of the potential risks associated with AI-generated maps and support the development of ethical guidelines for their future use.
