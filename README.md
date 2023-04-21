@@ -56,7 +56,7 @@ The rapid advancement of artificial intelligence (AI) such as the emergence of l
 /data
 ├── continent/
 │   ├── Africa_1.jpg
-│   ├── Africa_1.jpg
+│   ├── Africa_2.jpg
 │   └── ...
 ├── country/
 │   ├── Afghanistan_1.jpg
