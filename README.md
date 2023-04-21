@@ -80,6 +80,7 @@ Project Link: [https://github.com/GISense/DALL-E2-Cartography-Ethics](https://gi
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [GeoDS Lab](https://geods.geography.wisc.edu/)
+* [Hgis Lab](https://hgis.uw.edu/)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
