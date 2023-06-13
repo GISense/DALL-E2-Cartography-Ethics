@@ -79,7 +79,6 @@ metadata.csv
 ## Contact
 
 Yuhao Kang - [@YuhaoKang](https://twitter.com/YuhaoKang) - yuhaokang at sc.edu  
-Qianheng Zhang - [@YuhaoKang](https://twitter.com/YuhaoKang) - yuhaokang at sc.edu  
 
 Project Link: [https://github.com/GISense/DALL-E2-Cartography-Ethics](https://github.com/GISense/DALL-E2-Cartography-Ethics) 
 
