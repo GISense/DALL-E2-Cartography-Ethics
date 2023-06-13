@@ -10,9 +10,16 @@
 
   <p align="center">
       GISense Lab, Department of Geography, University of South Carolina.  
-      GeoDS Lab, Department of Geography, University of Wisconsin-Madison.  
+  </p>
+  <p align="center">
+      GeoDS Lab, Department of Geography, University of Wisconsin-Madison. 
+  </p>
+  <p align="center">
       HGIS Lab, Department of Geography, University of Washington.  
+  </p>
+  <p align="center">
       Cartography Lab, Department of Geography, University of Wisconsin-Madison.  
+  </p>
     <br />
     <!--<a href="https://geods.geography.wisc.edu/covid-19-physical-distancing">Website</a>
     ·
